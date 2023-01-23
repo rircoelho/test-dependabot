@@ -59,7 +59,7 @@ dependencies {
     testImplementation("com.ninja-squad:springmockk:1.1.3")
     testImplementation("com.squareup.okhttp3:okhttp:4.10.0")
     testImplementation("com.squareup.okhttp3:mockwebserver:4.10.0")
-    testImplementation("com.tngtech.archunit:archunit-junit5:1.0.0")
+    testImplementation("com.tngtech.archunit:archunit-junit5:1.0.1")
     testImplementation("org.springframework.amqp:spring-rabbit-test")
     testImplementation("org.springframework.kafka:spring-kafka-test")
 
