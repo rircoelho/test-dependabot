@@ -41,7 +41,7 @@ dependencies {
     implementation("org.flywaydb:flyway-core:9.8.3")
     implementation("com.vladmihalcea:hibernate-types-60:2.20.0")
     implementation("org.springframework.kafka:spring-kafka")
-    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.1")
+    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.2")
     implementation("org.springframework.boot:spring-boot-starter-validation")
     implementation("org.springframework.boot:spring-boot-starter-amqp")
 
