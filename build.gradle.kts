@@ -56,7 +56,7 @@ dependencies {
     testImplementation("io.strikt:strikt-core:0.34.1")
     testImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
     testImplementation("com.appmattus.fixture:fixture:1.2.0")
-    testImplementation("com.ninja-squad:springmockk:3.1.2")
+    testImplementation("com.ninja-squad:springmockk:1.1.3")
     testImplementation("com.squareup.okhttp3:okhttp:4.10.0")
     testImplementation("com.squareup.okhttp3:mockwebserver:4.10.0")
     testImplementation("com.tngtech.archunit:archunit-junit5:1.0.0")
