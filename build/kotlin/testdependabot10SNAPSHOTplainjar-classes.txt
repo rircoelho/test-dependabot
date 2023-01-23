@@ -1,0 +1,1 @@
+/Users/rafaelcoelho/Development/temp/test-dependabot/build/classes/kotlin/main/MainKt.class
