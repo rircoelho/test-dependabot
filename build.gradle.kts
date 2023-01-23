@@ -39,7 +39,7 @@ dependencies {
     implementation("org.codehaus.janino:janino:3.1.9")
     implementation("io.micrometer:micrometer-registry-statsd")
     implementation("org.flywaydb:flyway-core:9.8.3")
-    implementation("com.vladmihalcea:hibernate-types-60:2.20.0")
+    implementation("com.vladmihalcea:hibernate-types-60:2.21.1")
     implementation("org.springframework.kafka:spring-kafka")
     implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.1")
     implementation("org.springframework.boot:spring-boot-starter-validation")
