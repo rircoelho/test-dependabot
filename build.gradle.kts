@@ -13,7 +13,7 @@ plugins {
     id("org.kordamp.gradle.detekt") version "0.45.0"
     java
     jacoco
-    id("org.jlleitschuh.gradle.ktlint") version "10.0.0"
+    id("org.jlleitschuh.gradle.ktlint") version "11.2.0"
 
     application
 }
